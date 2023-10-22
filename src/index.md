@@ -1,5 +1,5 @@
 ---
-title: My first page
+title: Simple.css with Sass processing
 layout: base
 css: simple-original
 ---
