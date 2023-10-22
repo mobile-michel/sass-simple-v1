@@ -1,7 +1,7 @@
 {
-    "name": "2d-sass",
+    "name": "sass-simple",
     "version": "1.0.0",
-    "description": "Basic website with Eleventy, LiquidJS & Sass processing",
+    "description": "Basic website with Eleventy, LiquidJS, Simple with Sass processing",
     "main": "eleventy.config.js",
     "scripts": {
         "watch:eleventy": "npx @11ty/eleventy --serve",
